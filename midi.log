@@ -1,0 +1,3 @@
+INFO:root:in main .. data is ...
+INFO:root:{'dump': None, 'summary': None, 'build': None, 'add': None, 'ver': None, 'id': None, 'delete': None, 'toggle': None, 'write': True, 'getfile': None, 'receive': True, 'send': None, 'install': None, 'uninstall': None, 'patch': None, 'allpatches': None, 'upload': None}
+INFO:root:['my_pedal.zt2']

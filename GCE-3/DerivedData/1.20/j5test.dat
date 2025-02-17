@@ -1,8 +1,0 @@
-[
-	{
-    		"name":"Type",
-		"explanation":"Select the type of pickup used.",
-		"blackback":false,
-		"pedal":false
-	},
-]
